@@ -1,4 +1,4 @@
-nodejs.krasimirtsonev.com
+The official site of "Node.js blueprints" book
 =========================
 
-The official site of "Node.js blueprints" book
+[nodejs.krasimirtsonev.com](http://nodejs.krasimirtsonev.com)
